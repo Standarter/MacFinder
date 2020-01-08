@@ -1,2 +1,4 @@
 # MacFinder
-Can find any MAC coordinates
+You can find geolocation by BSSID
+# Running
+Python3 := "python3 main.py"
